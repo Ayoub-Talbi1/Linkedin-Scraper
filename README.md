@@ -19,4 +19,5 @@ Click 'send' to send your message to the selected profiles.
 
 # Note
 Please be aware that using this application may violate LinkedIn's terms of service. Use at your own risk.
+
 Worked this project with @Mordingi (Baggar Nassim)
