@@ -17,6 +17,8 @@ Compose your message to the people who appear in your search results.
 
 Click 'send' to send your message to the selected profiles.
 
+![Alt text](GUI.png)
+
 # Note
 Please be aware that using this application may violate LinkedIn's terms of service. Use at your own risk.
 
